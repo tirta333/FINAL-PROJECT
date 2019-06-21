@@ -7,3 +7,7 @@ Enkripsi biasanya untuk penyandian pesan atau informasi tertentu sehingga tidak 
   - TIRTA MAULANA MOHAMAD ( 17.83.0001 )
   - ALJO LEONARDO ( 17.83.0003 )
   - RANDIKA RAMDAN PAWILLOI ( 17.83.0054 )
+3. Tools yang digunakan 
+= Notepad++ v.7.5.8
+4. Algoritme yang di pakai
+= Caesar Chiper
