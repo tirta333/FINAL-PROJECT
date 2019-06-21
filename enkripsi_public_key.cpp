@@ -27,7 +27,10 @@ int main()
 
       //decrypting public key
       case 2:
-      kode algoritma di sini
+     for(i; (i < 100 && pk[i] != '\0'); i++)
+         pk[i] = pk[i] - 2; //kunci untuk enkripsi adalah 3 yang dikurangi dengan nilai ASCII
+
+      cout << "\nDecrypted public key: " << pk << endl;
          break;
 
       default:
